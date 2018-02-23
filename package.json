@@ -1,0 +1,23 @@
+{
+  "name": "friendfinderapp",
+  "version": "1.0.0",
+  "description": "this app will help you find a friend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamDesai333/FriendFinderApp.git"
+  },
+  "author": "Samidh Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamDesai333/FriendFinderApp/issues"
+  },
+  "homepage": "https://github.com/SamDesai333/FriendFinderApp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
